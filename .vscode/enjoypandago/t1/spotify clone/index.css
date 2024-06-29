@@ -1,0 +1,14 @@
+body{
+  background-color:black;
+}
+.image{
+  width: 200px;
+  height: 100px;
+  display: flex;
+  margin-left: 500px;
+  padding: 0%;
+
+}
+.KKR{
+  color: white;
+}
